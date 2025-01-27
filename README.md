@@ -17,13 +17,15 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vPCxUMF" data-context="false" ><a href="//imgur.com/a/vPCxUMF"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## App Brainstorming (Step 4)
+App Idea
+An app that tracks environmental data for local farms and fisheries, offering a user-friendly way to monitor and visualize data trends. Features could include interactive maps, alert systems for environmental hazards, and basic analytics to highlight trends over time. This app would focus on simplicity and functionality, making it ideal for farmers and hobbyists concerned about environmental sustainability.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+It was a challenge connecting the objects to functions.
 
 ## License
 
